@@ -1,0 +1,12 @@
+{
+  "name": "javascript-upload-file-api",
+  "version": "0.0.0",
+  "description": "upload file",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "hapi": "*"
+  }
+}
